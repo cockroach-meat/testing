@@ -12,7 +12,6 @@
 
 | № | Правило | Исходные данные и действие | Ожидание до запуска | Приоритет / причина | Имя теста или ручная проверка |
 | --- | --- | --- | --- | --- | --- |
-
 | 1 | R2 | `issue`, `mic`, `quantity=0` | `ok=False` | Высокий | `test_issue_zero_microphones` |
 | 2 | R2 |  `issue`, `mic`, `quantity=1` | `ok=True` | Высокий | `test_issue_one_microphone` |
 | 3 | R2 | `issue`, `mic`, `quantity=3` | `ok=True` | Высокий | `test_issue_three_microphones` |
