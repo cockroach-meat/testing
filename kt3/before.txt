@@ -1,0 +1,44 @@
+test_issue_one_microphone (test_start.StartTests.test_issue_one_microphone) ... ok
+test_issue_and_return_microphone (test_student.StudentTests.test_issue_and_return_microphone) ... ok
+test_issue_and_return_microphone_two_times (test_student.StudentTests.test_issue_and_return_microphone_two_times) ... FAIL
+test_issue_and_return_tripod_then_issue_again (test_student.StudentTests.test_issue_and_return_tripod_then_issue_again) ... ok
+test_issue_foo_microphones (test_student.StudentTests.test_issue_foo_microphones) ... ok
+test_issue_four_microphones (test_student.StudentTests.test_issue_four_microphones) ... ok
+test_issue_half_microphones (test_student.StudentTests.test_issue_half_microphones) ... ok
+test_issue_light (test_student.StudentTests.test_issue_light) ... ok
+test_issue_minus_two_microphones (test_student.StudentTests.test_issue_minus_two_microphones) ... ok
+test_issue_one_microphone (test_student.StudentTests.test_issue_one_microphone) ... ok
+test_issue_three_microphones (test_student.StudentTests.test_issue_three_microphones) ... FAIL
+test_issue_tripod_two_times (test_student.StudentTests.test_issue_tripod_two_times) ... ok
+test_issue_two_tripods (test_student.StudentTests.test_issue_two_tripods) ... FAIL
+test_issue_zero_microphones (test_student.StudentTests.test_issue_zero_microphones) ... ok
+test_return_invalid_loan (test_student.StudentTests.test_return_invalid_loan) ... ok
+
+======================================================================
+FAIL: test_issue_and_return_microphone_two_times (test_student.StudentTests.test_issue_and_return_microphone_two_times)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/ryzh/folder/ithub/testing/k3/IThub-24.3/КТ/КТ3/project/tests/test_student.py", line 92, in test_issue_and_return_microphone_two_times
+    self.assertFalse(result["ok"])
+AssertionError: True is not false
+
+======================================================================
+FAIL: test_issue_three_microphones (test_student.StudentTests.test_issue_three_microphones)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/ryzh/folder/ithub/testing/k3/IThub-24.3/КТ/КТ3/project/tests/test_student.py", line 28, in test_issue_three_microphones
+    self.assertTrue(result["ok"])
+AssertionError: False is not true
+
+======================================================================
+FAIL: test_issue_two_tripods (test_student.StudentTests.test_issue_two_tripods)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/ryzh/folder/ithub/testing/k3/IThub-24.3/КТ/КТ3/project/tests/test_student.py", line 58, in test_issue_two_tripods
+    self.assertFalse(result["ok"])
+AssertionError: True is not false
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.001s
+
+FAILED (failures=3)

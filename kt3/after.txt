@@ -1,0 +1,20 @@
+test_issue_one_microphone (test_start.StartTests.test_issue_one_microphone) ... ok
+test_issue_and_return_microphone (test_student.StudentTests.test_issue_and_return_microphone) ... ok
+test_issue_and_return_microphone_two_times (test_student.StudentTests.test_issue_and_return_microphone_two_times) ... ok
+test_issue_and_return_tripod_then_issue_again (test_student.StudentTests.test_issue_and_return_tripod_then_issue_again) ... ok
+test_issue_foo_microphones (test_student.StudentTests.test_issue_foo_microphones) ... ok
+test_issue_four_microphones (test_student.StudentTests.test_issue_four_microphones) ... ok
+test_issue_half_microphones (test_student.StudentTests.test_issue_half_microphones) ... ok
+test_issue_light (test_student.StudentTests.test_issue_light) ... ok
+test_issue_minus_two_microphones (test_student.StudentTests.test_issue_minus_two_microphones) ... ok
+test_issue_one_microphone (test_student.StudentTests.test_issue_one_microphone) ... ok
+test_issue_three_microphones (test_student.StudentTests.test_issue_three_microphones) ... ok
+test_issue_tripod_two_times (test_student.StudentTests.test_issue_tripod_two_times) ... ok
+test_issue_two_tripods (test_student.StudentTests.test_issue_two_tripods) ... ok
+test_issue_zero_microphones (test_student.StudentTests.test_issue_zero_microphones) ... ok
+test_return_invalid_loan (test_student.StudentTests.test_return_invalid_loan) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.001s
+
+OK
