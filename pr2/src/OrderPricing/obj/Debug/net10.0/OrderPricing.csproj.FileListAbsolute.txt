@@ -1,0 +1,12 @@
+/home/ryzh/folder/ithub/testing/k3/IThub-24.3/practice/src/OrderPricing/bin/Debug/net10.0/OrderPricing.deps.json
+/home/ryzh/folder/ithub/testing/k3/IThub-24.3/practice/src/OrderPricing/bin/Debug/net10.0/OrderPricing.dll
+/home/ryzh/folder/ithub/testing/k3/IThub-24.3/practice/src/OrderPricing/bin/Debug/net10.0/OrderPricing.pdb
+/home/ryzh/folder/ithub/testing/k3/IThub-24.3/practice/src/OrderPricing/obj/Debug/net10.0/OrderPricing.GeneratedMSBuildEditorConfig.editorconfig
+/home/ryzh/folder/ithub/testing/k3/IThub-24.3/practice/src/OrderPricing/obj/Debug/net10.0/OrderPricing.AssemblyInfoInputs.cache
+/home/ryzh/folder/ithub/testing/k3/IThub-24.3/practice/src/OrderPricing/obj/Debug/net10.0/OrderPricing.AssemblyInfo.cs
+/home/ryzh/folder/ithub/testing/k3/IThub-24.3/practice/src/OrderPricing/obj/Debug/net10.0/OrderPricing.csproj.CoreCompileInputs.cache
+/home/ryzh/folder/ithub/testing/k3/IThub-24.3/practice/src/OrderPricing/obj/Debug/net10.0/OrderPricing.sourcelink.json
+/home/ryzh/folder/ithub/testing/k3/IThub-24.3/practice/src/OrderPricing/obj/Debug/net10.0/OrderPricing.dll
+/home/ryzh/folder/ithub/testing/k3/IThub-24.3/practice/src/OrderPricing/obj/Debug/net10.0/refint/OrderPricing.dll
+/home/ryzh/folder/ithub/testing/k3/IThub-24.3/practice/src/OrderPricing/obj/Debug/net10.0/OrderPricing.pdb
+/home/ryzh/folder/ithub/testing/k3/IThub-24.3/practice/src/OrderPricing/obj/Debug/net10.0/ref/OrderPricing.dll
